@@ -1,0 +1,15 @@
+{
+  "name": "estudos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "std-fs/index.mjs",
+  "type": "module",
+  "scripts": {
+    "dev": "node std-fs/read/index.mjs",
+    "dev2": "node std-fs/write/index.mjs",
+    "dev3": "node std-fs/stream/index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
